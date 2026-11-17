@@ -41,6 +41,7 @@ Software Engineering
 Contact:
 
 GitHub: github.com/JJordaky
+
 Email: joaoaugustobj@gmail.com
 
 This profile is a work in progress and will be updated as I gain new skills and experience.
