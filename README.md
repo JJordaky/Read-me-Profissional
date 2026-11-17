@@ -35,3 +35,4 @@ GitHub: github.com/JJordaky
 Email: joaoaugustobj@gmail.com
 
 <p align="center"> <em>This profile is a work in progress and will be updated as I gain new skills and experience.</em> </p>
+
