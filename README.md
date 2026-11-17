@@ -23,6 +23,7 @@ HTML & CSS: Introductory
 Excel: Basic
 
 Learning Goals:
+
 Strengthen programming logic and data structures fundamentals
 Improve proficiency in Python and SQL
 Learn Git and GitHub workflows
@@ -31,12 +32,14 @@ Study software testing, best practices, and cloud fundamentals
 Develop academic and personal projects to build a professional portfolio
 
 Areas of Interest:
+
 Back-end Development
 APIs and Web Services
 Databases
 Software Engineering
 
 Contact:
+
 GitHub: github.com/JJordaky
 Email: joaoaugustobj@gmail.com
 
