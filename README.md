@@ -1,29 +1,37 @@
-Hi! I'm João Jordaky
-🎓 Technology student interested in Software Development, especially Back-end Development.
-About Me
-I'm at the beginning of my journey in software development. I have basic knowledge of C and SQL, and I'm currently learning Python, JavaScript, HTML, and CSS. I also have some introductory experience with Excel.
+João Jordaky
 
-My goal is to grow as a back-end developer by learning how to build APIs, work with databases, and create well-structured software solutions.
+Technology Student | Aspiring Back-end Developer
+
+About Me
+
+I am a technology student at the beginning of my journey in software development, with a particular interest in back-end engineering. I have foundational knowledge of C and SQL, am currently studying Python, JavaScript, HTML, and CSS, and have introductory experience with Excel.
+
+My goal is to grow as a back-end developer by learning to design and build APIs, work with databases, and develop well-structured software solutions.
+
 Technologies & Skills
-- C: Basic knowledge
-- SQL: Basic knowledge
-- Python: Beginner-level knowledge
-- JavaScript: Introductory knowledge
-- HTML & CSS: Introductory knowledge
-- Excel: Basic knowledge
+C: Basic
+SQL: Basic
+Python: Beginner
+JavaScript: Introductory
+HTML & CSS: Introductory
+Excel: Basic
+
 Learning Goals
-- Strengthen my programming logic and data structures knowledge.
-- Improve my Python and SQL skills.
-- Learn Git and GitHub workflows.
-- Build REST APIs and work with database integration.
-- Study software testing, best practices, and cloud fundamentals.
-- Develop academic and personal projects to build my portfolio.
+Strengthen programming logic and data structures fundamentals
+Improve proficiency in Python and SQL
+Learn Git and GitHub workflows
+Build REST APIs and integrate them with databases
+Study software testing, best practices, and cloud fundamentals
+Develop academic and personal projects to build a professional portfolio
+
 Areas of Interest
-- Back-end Development
-- APIs and Web Services
-- Databases
-- Software Engineering
+Back-end Development
+APIs and Web Services
+Databases
+Software Engineering
+
 Contact
-- LinkedIn: https://github.com/JJordaky
-- Email: joaoaugustobj@gmail.com
+GitHub: github.com/JJordaky
+Email: joaoaugustobj@gmail.com
+
 This profile is a work in progress and will be updated as I gain new skills and experience.
