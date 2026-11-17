@@ -1,4 +1,4 @@
-#João Jordaky#
+#João Jordaky
 
 Technology Student | Aspiring Back-end Developer
 
